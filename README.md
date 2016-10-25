@@ -5,7 +5,8 @@
 #工具：利用R語言
 #輸入：高雄登革熱資料
 #輸出：地區分佈、年齡、性別、本地人或外地人、月份
+
+#介面圖：
+![image](https://github.com/0324007/oose_0324007/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2.jpg)
 #呈現方式：
 ![image](https://github.com/0324007/oose_0324007/blob/master/123.jpg)
-#流程圖：
-![image](https://github.com/0324007/oose_0324007/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2.jpg)
