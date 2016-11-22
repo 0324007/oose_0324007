@@ -14,3 +14,6 @@
 ![image](https://github.com/0324007/oose_0324007/blob/master/流程圖.png)
 #使用個案圖:
 ![image](https://github.com/0324007/oose_0324007/blob/master/使用個案圖.png)
+#管理者強韌圖:
+![image](https://github.com/0324007/oose_0324007/blob/master/管理者強韌圖.png)
+
