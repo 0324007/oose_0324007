@@ -12,7 +12,7 @@
 
 ##介面圖：
 ![image](https://github.com/0324007/oose_0324007/blob/master/介面圖.png)
-介面大致這樣呈現，到後頭會再修改。
+
 ##呈現方式：
 ![image](https://github.com/0324007/oose_0324007/blob/master/123.jpg)
 ##流程圖：
